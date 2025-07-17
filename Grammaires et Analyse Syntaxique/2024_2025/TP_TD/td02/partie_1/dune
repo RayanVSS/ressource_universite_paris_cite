@@ -1,0 +1,4 @@
+(ocamllex
+ (modules lexeur2))
+(executable
+ (name main))
